@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         public static void Main(string[] args)
         {
             Console.WriteLine("From Main Function");
-            //Console.WriteLine("From Main Function Second comment");
+            Console.WriteLine("From Main Function Second comment")
             Console.ReadLine();
         }
     }
